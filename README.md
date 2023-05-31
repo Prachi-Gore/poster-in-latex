@@ -1,6 +1,8 @@
 # poster in latex
 <p align="center">
-  <a href=""
+ 
+  <a href="">
      <img src="poster.jpg"/>
+ 
   </a>
  </p>
